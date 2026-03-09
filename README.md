@@ -132,7 +132,8 @@ Regularly monitor station operational status.
 
 Improve infrastructure in areas with high user demand.
 
-📷 Dashboard Preview
+📷 <img width="1014" height="663" alt="image" src="https://github.com/user-attachments/assets/851a1c52-9793-464e-a8c8-82a90caa3295" />
+
 
 (You can upload screenshots of your Power BI dashboard here)
 
@@ -150,16 +151,4 @@ Station Status Analysis
 
 This project demonstrates how Power BI can be used to transform raw transportation data into meaningful insights that help improve urban mobility systems and optimize bike-sharing operations.
 
-👤 Author
 
-Satheesh Kumar
-
-Aspiring Data Analyst skilled in:
-
-Excel
-
-Power BI
-
-Data Visualization
-
-Data Cleaning & Transformation
